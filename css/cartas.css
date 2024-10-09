@@ -1,0 +1,25 @@
+img{
+    width: 15%;
+    margin-left: 45%;
+}
+p{
+    font-size: xx-large;
+    color: white;
+    font-family: 'Century Gothic';
+
+}
+@media screen and (max-width:1000px){
+img{
+    width: 45%;
+    margin-left: 30%;
+}
+p{
+    font-size: xx-large;
+    color: white;
+}
+button{
+    height: 100px;
+    width: 42%;
+    font-size: xx-large;
+}
+}
